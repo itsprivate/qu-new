@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://quora.buzzing.cc/sitemap/sitemap-index.xml
+Host: https://quora.buzzing.cc
